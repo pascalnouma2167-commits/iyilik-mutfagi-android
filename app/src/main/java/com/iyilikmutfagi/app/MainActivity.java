@@ -23,5 +23,5 @@ public class MainActivity extends Activity {
         webView.loadUrl("https://iyilik-haritasi.vercel.app");
     }
 
-    @Override
     
+}
