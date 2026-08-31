@@ -24,10 +24,4 @@ public class MainActivity extends Activity {
     }
 
     @Override
-    public void onBackPressed() {
-        WebView webView = (WebView) findViewById(android.R.id.content)
-                .getRootView();
-
-        super.onBackPressed();
-    }
-}
+    
